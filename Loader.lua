@@ -1,1 +1,1 @@
---[[ Why did you feel the need to look here? ]]  loadstring(game:HttpGet('https://novahub-zd14.onrender.com/retrieve/d788171f8ea66d88a6c9ec7f13076c1c'))()
+ loadstring(game:HttpGet('https://novahub-zd14.onrender.com/retrieve/d788171f8ea66d88a6c9ec7f13076c1c'))()
